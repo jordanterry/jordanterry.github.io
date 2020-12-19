@@ -4,7 +4,6 @@ title: 'Debrief &#8211; Saturday 10th June'
 date: 2017-06-11T06:45:59+00:00
 author: Jordan Terry
 layout: post
-guid: {{ site.baseurl }}/?p=200
 permalink: /2017/06/11/debrief-saturday-10th-june/
 image: /wp-content/uploads/2017/06/debrief-10th-june.jpg
 categories:

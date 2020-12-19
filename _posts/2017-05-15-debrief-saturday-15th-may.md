@@ -4,7 +4,6 @@ title: 'Debrief &#8211; Saturday 15th May'
 date: 2017-05-15T14:35:39+00:00
 author: Jordan Terry
 layout: post
-guid: {{ site.baseurl }}/?p=186
 permalink: /2017/05/15/debrief-saturday-15th-may/
 image: /wp-content/uploads/2017/05/15-may.jpg
 categories:

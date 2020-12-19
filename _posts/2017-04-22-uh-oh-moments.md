@@ -4,7 +4,6 @@ title: Uh-Oh Moments
 date: 2017-04-22T21:59:32+00:00
 author: Jordan Terry
 layout: post
-guid: {{ site.baseurl }}/?p=149
 permalink: /2017/04/22/uh-oh-moments/
 image: /wp-content/uploads/2017/04/featured-uh-oh.jpg
 categories:

@@ -4,7 +4,6 @@ title: 'Debrief &#8211; Thursday 22nd June'
 date: 2017-07-03T06:49:22+00:00
 author: Jordan Terry
 layout: post
-guid: {{ site.baseurl }}/?p=221
 permalink: /2017/07/03/debrief-thursday-22nd-june/
 image: /wp-content/uploads/2017/07/featured-23.jpg
 categories:

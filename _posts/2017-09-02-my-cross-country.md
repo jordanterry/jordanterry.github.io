@@ -4,7 +4,6 @@ title: My cross country
 date: 2017-09-02T11:31:28+00:00
 author: Jordan Terry
 layout: post
-guid: {{ site.baseurl }}/?p=242
 permalink: /2017/09/02/my-cross-country/
 image: /wp-content/uploads/2017/09/feature-cross-country.jpg
 categories:

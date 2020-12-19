@@ -4,7 +4,6 @@ title: Lee to Kemble
 date: 2017-07-18T21:00:05+00:00
 author: Jordan Terry
 layout: post
-guid: {{ site.baseurl }}/?p=226
 permalink: /2017/07/18/lee-to-kemble/
 image: /wp-content/uploads/2017/07/featured-lee-to-kemble.jpg
 categories:

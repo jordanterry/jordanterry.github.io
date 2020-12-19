@@ -4,7 +4,6 @@ title: 'Debrief &#8211; Tuesday 20th June'
 date: 2017-06-30T06:38:10+00:00
 author: Jordan Terry
 layout: post
-guid: {{ site.baseurl }}/?p=211
 permalink: /2017/06/30/debrief-tuesday-20th-june/
 image: /wp-content/uploads/2017/06/featured-20th-june.jpg
 categories:

@@ -4,7 +4,6 @@ title: Going Solo
 date: 2017-03-12T19:01:20+00:00
 author: Jordan Terry
 layout: post
-guid: {{ site.baseurl }}/?p=63
 permalink: /2017/03/12/going-solo/
 image: /wp-content/uploads/2017/04/featured-going-solo.jpg
 categories:

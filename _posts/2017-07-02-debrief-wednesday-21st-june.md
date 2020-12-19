@@ -4,7 +4,6 @@ title: 'Debrief &#8211; Wednesday 21st June'
 date: 2017-07-02T13:43:54+00:00
 author: Jordan Terry
 layout: post
-guid: {{ site.baseurl }}/?p=218
 permalink: /2017/07/02/debrief-wednesday-21st-june/
 image: /wp-content/uploads/2017/07/debrief-22.jpg
 categories:

@@ -4,7 +4,6 @@ title: 'Debrief &#8211; Tuesday 18th July'
 date: 2017-07-22T21:20:55+00:00
 author: Jordan Terry
 layout: post
-guid: {{ site.baseurl }}/?p=231
 permalink: /2017/07/22/debrief-tuesday-18th-july/
 image: /wp-content/uploads/2017/07/debrief-20-july.jpg
 categories:

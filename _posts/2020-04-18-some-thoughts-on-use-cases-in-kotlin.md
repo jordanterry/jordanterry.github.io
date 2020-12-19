@@ -4,7 +4,6 @@ title: Some thoughts on use cases in Kotlin
 date: 2020-04-18T10:23:33+00:00
 author: jordan_terry
 layout: post
-guid: {{ site.baseurl }}/?p=137
 permalink: /some-thoughts-on-use-cases-in-kotlin
 categories:
   - Uncategorized

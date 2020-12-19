@@ -4,7 +4,6 @@ title: 'Debrief &#8211; Saturday 29th April'
 date: 2017-04-29T22:30:16+00:00
 author: Jordan Terry
 layout: post
-guid: {{ site.baseurl }}/?p=162
 permalink: /2017/04/29/debrief-saturday-29th-april/
 image: /wp-content/uploads/2017/04/featured-debrief-two.jpg
 categories:

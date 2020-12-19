@@ -4,7 +4,6 @@ title: 'Debrief &#8211; Ground School &#8211; Tuesday 2nd May'
 date: 2017-05-05T20:44:22+00:00
 author: Jordan Terry
 layout: post
-guid: {{ site.baseurl }}/?p=172
 permalink: /2017/05/05/debrief-ground-school-tuesday-2nd-may/
 image: /wp-content/uploads/2017/05/featured-debrief-navigation.jpg
 categories:

@@ -4,7 +4,6 @@ title: The week ahead
 date: 2017-06-19T21:21:57+00:00
 author: Jordan Terry
 layout: post
-guid: {{ site.baseurl }}/?p=206
 permalink: /2017/06/19/the-week-ahead/
 image: /wp-content/uploads/2017/06/featured-week-ahead.jpg
 categories:

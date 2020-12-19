@@ -4,7 +4,6 @@ title: Aerobatics
 date: 2017-04-16T20:10:24+00:00
 author: Jordan Terry
 layout: post
-guid: {{ site.baseurl }}/?p=138
 permalink: /2017/04/16/aerobatics/
 image: /wp-content/uploads/2017/04/featured-about.jpg
 categories:

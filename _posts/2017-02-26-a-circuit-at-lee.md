@@ -4,7 +4,6 @@ title: A Circuit at Lee
 date: 2017-02-26T20:01:34+00:00
 author: Jordan Terry
 layout: post
-guid: {{ site.baseurl }}/?p=73
 permalink: /2017/02/26/a-circuit-at-lee/
 image: /wp-content/uploads/2017/02/featured-circuit-at-lee.jpg
 categories:

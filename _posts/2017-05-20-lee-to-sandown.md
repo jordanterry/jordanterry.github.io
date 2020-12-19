@@ -4,7 +4,6 @@ title: Lee to Sandown
 date: 2017-05-20T18:00:25+00:00
 author: Jordan Terry
 layout: post
-guid: {{ site.baseurl }}/?p=191
 permalink: /2017/05/20/lee-to-sandown/
 image: /wp-content/uploads/2017/05/trip-sandown.jpg
 categories:

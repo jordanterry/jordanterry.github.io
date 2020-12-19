@@ -4,7 +4,6 @@ title: After the hiatus
 date: 2018-02-23T15:39:27+00:00
 author: Jordan Terry
 layout: post
-guid: {{ site.baseurl }}/?p=253
 permalink: /2018/02/23/after-the-hiatus/
 image: /wp-content/uploads/2018/02/afterthehiatus_header.png
 categories:

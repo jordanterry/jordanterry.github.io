@@ -4,7 +4,6 @@ title: 'Reinforcement &#8211; Learning From Others'
 date: 2017-04-27T17:46:46+00:00
 author: Jordan Terry
 layout: post
-guid: {{ site.baseurl }}/?p=159
 permalink: /2017/04/27/reinforcement-learning-from-others/
 image: /wp-content/uploads/2017/04/featured-reinforcement.jpg
 categories:

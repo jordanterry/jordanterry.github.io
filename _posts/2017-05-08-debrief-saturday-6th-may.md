@@ -4,7 +4,6 @@ title: 'Debrief &#8211; Saturday 6th May'
 date: 2017-05-08T06:44:39+00:00
 author: Jordan Terry
 layout: post
-guid: {{ site.baseurl }}/?p=177
 permalink: /2017/05/08/debrief-saturday-6th-may/
 image: /wp-content/uploads/2017/05/featured-debrief-05-may.jpg
 categories:

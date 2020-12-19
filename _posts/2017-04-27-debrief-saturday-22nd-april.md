@@ -4,7 +4,6 @@ title: 'Debrief &#8211; Saturday 22nd April'
 date: 2017-04-27T06:42:38+00:00
 author: Jordan Terry
 layout: post
-guid: {{ site.baseurl }}/?p=155
 permalink: /2017/04/27/debrief-saturday-22nd-april/
 image: /wp-content/uploads/2017/04/featured-debrief.jpg
 categories:

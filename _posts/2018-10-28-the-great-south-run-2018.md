@@ -4,7 +4,6 @@ title: The Great South Run 2018
 date: 2018-10-28T10:09:28+00:00
 author: jordan_terry
 layout: post
-guid: {{ site.baseurl }}/?p=107
 permalink: /the-great-south-run-2018
 image: /wp-content/uploads/2018/10/0.jpg
 categories:
