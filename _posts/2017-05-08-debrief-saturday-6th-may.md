@@ -10,7 +10,7 @@ categories:
   - Debriefs
   - PPL
 ---
-<figure id="attachment_178" class="thumbnail wp-caption alignnone" style="width: 1034px"><img loading="lazy" class="size-large wp-image-178" src="{{ site.baseurl }}/wp-content/uploads/2017/05/featured-debrief-05-may-1024x461.jpg" alt="" width="1024" height="461" srcset="{{ site.baseurl }}/wp-content/uploads/2017/05/featured-debrief-05-may-1024x461.jpg 1024w, {{ site.baseurl }}/wp-content/uploads/2017/05/featured-debrief-05-may-300x135.jpg 300w, {{ site.baseurl }}/wp-content/uploads/2017/05/featured-debrief-05-may-768x346.jpg 768w, {{ site.baseurl }}/wp-content/uploads/2017/05/featured-debrief-05-may.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="caption wp-caption-text">Sky above Lee</figcaption></figure> 
+<figure id="attachment_178" class="thumbnail wp-caption alignnone" style="width: 1034px"><img loading="lazy" class="size-large wp-image-178" src="{{ site.baseurl }}/wp-content/uploads/2017/05/featured-debrief-05-may-1024x461.jpg" alt="" srcset="{{ site.baseurl }}/wp-content/uploads/2017/05/featured-debrief-05-may-1024x461.jpg 1024w, {{ site.baseurl }}/wp-content/uploads/2017/05/featured-debrief-05-may-300x135.jpg 300w, {{ site.baseurl }}/wp-content/uploads/2017/05/featured-debrief-05-may-768x346.jpg 768w, {{ site.baseurl }}/wp-content/uploads/2017/05/featured-debrief-05-may.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="caption wp-caption-text">Sky above Lee</figcaption></figure> 
 
 On the morning of the 6th I woke up with nothing planned for the day other than reading and watching a film. My phone starts ringing and it is my instructor &#8211; interesting!
 

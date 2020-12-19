@@ -9,7 +9,7 @@ image: /wp-content/uploads/2017/04/featured-image-weather.jpg
 categories:
   - PPL
 ---
-<figure id="attachment_110" class="thumbnail wp-caption alignnone" style="width: 1034px">[<img loading="lazy" class="wp-image-110 size-large" src="{{ site.baseurl }}/wp-content/uploads/2017/04/IMG_20161105_153425-1024x768.jpg" alt="Clouds at 2 o'clock" width="1024" height="768" srcset="{{ site.baseurl }}/wp-content/uploads/2017/04/IMG_20161105_153425-1024x768.jpg 1024w, {{ site.baseurl }}/wp-content/uploads/2017/04/IMG_20161105_153425-300x225.jpg 300w, {{ site.baseurl }}/wp-content/uploads/2017/04/IMG_20161105_153425-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />]({{ site.baseurl }}/wp-content/uploads/2017/04/IMG_20161105_153425.jpg)<figcaption class="caption wp-caption-text">Clouds at 2 o&#8217;clock</figcaption></figure> 
+<figure id="attachment_110" class="thumbnail wp-caption alignnone"><img loading="lazy" class="wp-image-110 size-large" src="{{ site.baseurl }}/wp-content/uploads/2017/04/IMG_20161105_153425-1024x768.jpg" alt="Clouds at 2 o'clock" srcset="{{ site.baseurl }}/wp-content/uploads/2017/04/IMG_20161105_153425-1024x768.jpg 1024w, {{ site.baseurl }}/wp-content/uploads/2017/04/IMG_20161105_153425-300x225.jpg 300w, {{ site.baseurl }}/wp-content/uploads/2017/04/IMG_20161105_153425-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="caption wp-caption-text">Clouds at 2 o&#8217;clock</figcaption></figure> 
 
 The common foe of all pilots: bad weather. Stroll into a flying club on a foggy Saturday and you will find a squadron of pilots aimlessly wondering in circles. Even if there was a blizzard of “The Day After Tomorrow Standards” you would find pilots sat in the members club waiting for it to clear.
 
