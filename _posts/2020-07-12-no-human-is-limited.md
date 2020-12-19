@@ -4,7 +4,6 @@ title: No human is limited
 date: 2020-07-12T20:45:40+00:00
 author: jordan_terry
 layout: post
-guid: {{ site.baseurl }}/?p=158
 permalink: /no-human-is-limited
 categories:
   - Inspiration

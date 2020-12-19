@@ -4,7 +4,6 @@ title: Some thoughts on testing
 date: 2020-07-11T08:31:18+00:00
 author: jordan_terry
 layout: post
-guid: {{ site.baseurl }}/?p=156
 permalink: /some-thoughts-on-testing
 categories:
   - Software Engineering
