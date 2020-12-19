@@ -10,7 +10,7 @@ image: /wp-content/uploads/2017/09/feature-cross-country.jpg
 categories:
   - PPL
 ---
-<img loading="lazy" src="http://theflyingandroid.com/wp-content/uploads/2017/09/feature-cross-country-1024x461.jpg" alt="" width="1024" height="461" class="alignnone size-large wp-image-244" srcset="http://theflyingandroid.com/wp-content/uploads/2017/09/feature-cross-country-1024x461.jpg 1024w, http://theflyingandroid.com/wp-content/uploads/2017/09/feature-cross-country-300x135.jpg 300w, http://theflyingandroid.com/wp-content/uploads/2017/09/feature-cross-country-768x346.jpg 768w, http://theflyingandroid.com/wp-content/uploads/2017/09/feature-cross-country.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img src="{{site.url}}/wp-content/uploads/2017/09/feature-cross-country-1024x461.jpg" alt="" width="1024" height="461" class="alignnone size-large wp-image-244" />
 
 August was set to be the month that I finally passed my flying license; nine months of flying and I was set to finally have my PPL. It was not meant to be! One of the last things I had to do was complete my cross country; fly 150nm solo and make three landings and three different airfields. I attempted it three times in August and each time it was cancelled by bad weather!
 
