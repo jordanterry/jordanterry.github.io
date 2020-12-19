@@ -4,7 +4,7 @@ title: My first year of flying
 date: 2017-09-02T10:21:57+00:00
 author: Jordan Terry
 layout: post
-guid: http://theflyingandroid.com/?p=236
+guid: {{ site.baseurl }}/?p=236
 permalink: /2017/09/02/first-year-of-flying-video/
 image: /wp-content/uploads/2017/09/featured-first-year-1.jpg
 categories:

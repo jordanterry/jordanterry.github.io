@@ -4,14 +4,14 @@ title: 'Debrief &#8211; Saturday 10th June'
 date: 2017-06-11T06:45:59+00:00
 author: Jordan Terry
 layout: post
-guid: http://theflyingandroid.com/?p=200
+guid: {{ site.baseurl }}/?p=200
 permalink: /2017/06/11/debrief-saturday-10th-june/
 image: /wp-content/uploads/2017/06/debrief-10th-june.jpg
 categories:
   - Debriefs
   - PPL
 ---
-<figure id="attachment_201" class="thumbnail wp-caption alignnone" style="width: 1034px"><img loading="lazy" class="size-large wp-image-201" src="http://theflyingandroid.com/wp-content/uploads/2017/06/debrief-10th-june-1024x461.jpg" alt="" width="1024" height="461" srcset="http://theflyingandroid.com/wp-content/uploads/2017/06/debrief-10th-june-1024x461.jpg 1024w, http://theflyingandroid.com/wp-content/uploads/2017/06/debrief-10th-june-300x135.jpg 300w, http://theflyingandroid.com/wp-content/uploads/2017/06/debrief-10th-june-768x346.jpg 768w, http://theflyingandroid.com/wp-content/uploads/2017/06/debrief-10th-june.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="caption wp-caption-text">Taken during the pre-flight walk around</figcaption></figure> 
+<figure id="attachment_201" class="thumbnail wp-caption alignnone" style="width: 1034px"><img loading="lazy" class="size-large wp-image-201" src="{{ site.baseurl }}/wp-content/uploads/2017/06/debrief-10th-june-1024x461.jpg" alt="" width="1024" height="461" srcset="{{ site.baseurl }}/wp-content/uploads/2017/06/debrief-10th-june-1024x461.jpg 1024w, {{ site.baseurl }}/wp-content/uploads/2017/06/debrief-10th-june-300x135.jpg 300w, {{ site.baseurl }}/wp-content/uploads/2017/06/debrief-10th-june-768x346.jpg 768w, {{ site.baseurl }}/wp-content/uploads/2017/06/debrief-10th-june.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="caption wp-caption-text">Taken during the pre-flight walk around</figcaption></figure> 
 
 There isn’t too much to report about this flight other than I spent some more time around the circuit. I hadn’t flown for two weeks so it was a good way to refamiliarise myself with how to fly.
 

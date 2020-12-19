@@ -4,7 +4,7 @@ title: Wind, snow and more snow
 date: 2018-03-01T14:05:46+00:00
 author: Jordan Terry
 layout: post
-guid: http://theflyingandroid.com/?p=266
+guid: {{ site.baseurl }}/?p=266
 permalink: /2018/03/01/wind-snow-and-more-snow/
 image: /wp-content/uploads/2018/03/windsnowandmoresnow.png
 categories:

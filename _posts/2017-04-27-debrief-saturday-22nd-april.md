@@ -4,14 +4,14 @@ title: 'Debrief &#8211; Saturday 22nd April'
 date: 2017-04-27T06:42:38+00:00
 author: Jordan Terry
 layout: post
-guid: http://theflyingandroid.com/?p=155
+guid: {{ site.baseurl }}/?p=155
 permalink: /2017/04/27/debrief-saturday-22nd-april/
 image: /wp-content/uploads/2017/04/featured-debrief.jpg
 categories:
   - Debriefs
   - PPL
 ---
-<img loading="lazy" class="alignnone size-large wp-image-156" src="http://theflyingandroid.com/wp-content/uploads/2017/04/featured-debrief-1024x461.jpg" alt="" width="1024" height="461" srcset="http://theflyingandroid.com/wp-content/uploads/2017/04/featured-debrief-1024x461.jpg 1024w, http://theflyingandroid.com/wp-content/uploads/2017/04/featured-debrief-300x135.jpg 300w, http://theflyingandroid.com/wp-content/uploads/2017/04/featured-debrief-768x346.jpg 768w, http://theflyingandroid.com/wp-content/uploads/2017/04/featured-debrief.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img loading="lazy" class="alignnone size-large wp-image-156" src="{{ site.baseurl }}/wp-content/uploads/2017/04/featured-debrief-1024x461.jpg" alt="" width="1024" height="461" srcset="{{ site.baseurl }}/wp-content/uploads/2017/04/featured-debrief-1024x461.jpg 1024w, {{ site.baseurl }}/wp-content/uploads/2017/04/featured-debrief-300x135.jpg 300w, {{ site.baseurl }}/wp-content/uploads/2017/04/featured-debrief-768x346.jpg 768w, {{ site.baseurl }}/wp-content/uploads/2017/04/featured-debrief.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 This was only a short session and I would have about an hour in the air. It was a nice day; clouds about at 4,000ft and a light wind blowing across the runway.
 

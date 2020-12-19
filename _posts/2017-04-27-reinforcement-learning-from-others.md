@@ -4,14 +4,14 @@ title: 'Reinforcement &#8211; Learning From Others'
 date: 2017-04-27T17:46:46+00:00
 author: Jordan Terry
 layout: post
-guid: http://theflyingandroid.com/?p=159
+guid: {{ site.baseurl }}/?p=159
 permalink: /2017/04/27/reinforcement-learning-from-others/
 image: /wp-content/uploads/2017/04/featured-reinforcement.jpg
 categories:
   - PPL
   - Reinforcement
 ---
-<img loading="lazy" src="http://theflyingandroid.com/wp-content/uploads/2017/04/featured-reinforcement-1024x461.jpg" alt="" width="1024" height="461" class="alignnone size-large wp-image-160" srcset="http://theflyingandroid.com/wp-content/uploads/2017/04/featured-reinforcement-1024x461.jpg 1024w, http://theflyingandroid.com/wp-content/uploads/2017/04/featured-reinforcement-300x135.jpg 300w, http://theflyingandroid.com/wp-content/uploads/2017/04/featured-reinforcement-768x346.jpg 768w, http://theflyingandroid.com/wp-content/uploads/2017/04/featured-reinforcement.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img loading="lazy" src="{{ site.baseurl }}/wp-content/uploads/2017/04/featured-reinforcement-1024x461.jpg" alt="" width="1024" height="461" class="alignnone size-large wp-image-160" srcset="{{ site.baseurl }}/wp-content/uploads/2017/04/featured-reinforcement-1024x461.jpg 1024w, {{ site.baseurl }}/wp-content/uploads/2017/04/featured-reinforcement-300x135.jpg 300w, {{ site.baseurl }}/wp-content/uploads/2017/04/featured-reinforcement-768x346.jpg 768w, {{ site.baseurl }}/wp-content/uploads/2017/04/featured-reinforcement.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 Learning to fly isn’t easy; additional time should be spent reinforcing knowledge outside of practical flying sessions or ground lesson. Right now I am not doing enough of this, but as I do I will demonstrate what I have done In a series of blog posts I am going to call “reinforcement”.
 

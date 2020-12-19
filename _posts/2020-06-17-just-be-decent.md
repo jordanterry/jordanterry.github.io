@@ -4,7 +4,7 @@ title: Just be decent
 date: 2020-06-17T20:26:30+00:00
 author: jordan_terry
 layout: post
-guid: http://jordanterry.co.uk/?p=141
+guid: {{ site.baseurl }}/?p=141
 permalink: /just-be-decent
 categories:
   - Uncategorized

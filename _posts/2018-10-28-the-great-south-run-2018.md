@@ -4,13 +4,13 @@ title: The Great South Run 2018
 date: 2018-10-28T10:09:28+00:00
 author: jordan_terry
 layout: post
-guid: http://jordanterry.co.uk/?p=107
+guid: {{ site.baseurl }}/?p=107
 permalink: /the-great-south-run-2018
 image: /wp-content/uploads/2018/10/0.jpg
 categories:
   - Triathlon
 ---
-<figure class="wp-block-image"><img src="http://jordanterry.co.uk/wp-content/uploads/2018/10/0.jpg" alt="" class="wp-image-108" srcset="http://jordanterry.co.uk/wp-content/uploads/2018/10/0.jpg 1600w, http://jordanterry.co.uk/wp-content/uploads/2018/10/0-300x225.jpg 300w, http://jordanterry.co.uk/wp-content/uploads/2018/10/0-768x576.jpg 768w, http://jordanterry.co.uk/wp-content/uploads/2018/10/0-1024x768.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px" /><figcaption>Definitely need new running shorts.&nbsp;</figcaption></figure> 
+<figure class="wp-block-image"><img src="{{ site.baseurl }}/wp-content/uploads/2018/10/0.jpg" alt="" class="wp-image-108" srcset="{{ site.baseurl }}/wp-content/uploads/2018/10/0.jpg 1600w, {{ site.baseurl }}/wp-content/uploads/2018/10/0-300x225.jpg 300w, {{ site.baseurl }}/wp-content/uploads/2018/10/0-768x576.jpg 768w, {{ site.baseurl }}/wp-content/uploads/2018/10/0-1024x768.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px" /><figcaption>Definitely need new running shorts.&nbsp;</figcaption></figure> 
 
 Between my Sister, Dad and Mum the Terry family have completed The Great South Run a total of six times. Every year a family member has completed it I have never found myself quite ever wanting to run the 10 miles (16km) around Portsmouth. However, given my new found love for endurance sport I thought this year would be as good a year as any to give it a go.
 

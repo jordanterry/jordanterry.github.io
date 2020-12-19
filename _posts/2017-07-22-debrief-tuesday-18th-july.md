@@ -4,14 +4,14 @@ title: 'Debrief &#8211; Tuesday 18th July'
 date: 2017-07-22T21:20:55+00:00
 author: Jordan Terry
 layout: post
-guid: http://theflyingandroid.com/?p=231
+guid: {{ site.baseurl }}/?p=231
 permalink: /2017/07/22/debrief-tuesday-18th-july/
 image: /wp-content/uploads/2017/07/debrief-20-july.jpg
 categories:
   - Debriefs
   - PPL
 ---
-<img loading="lazy" src="http://theflyingandroid.com/wp-content/uploads/2017/07/debrief-20-july-1024x461.jpg" alt="" width="1024" height="461" class="alignnone size-large wp-image-232" srcset="http://theflyingandroid.com/wp-content/uploads/2017/07/debrief-20-july-1024x461.jpg 1024w, http://theflyingandroid.com/wp-content/uploads/2017/07/debrief-20-july-300x135.jpg 300w, http://theflyingandroid.com/wp-content/uploads/2017/07/debrief-20-july-768x346.jpg 768w, http://theflyingandroid.com/wp-content/uploads/2017/07/debrief-20-july.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img loading="lazy" src="{{ site.baseurl }}/wp-content/uploads/2017/07/debrief-20-july-1024x461.jpg" alt="" width="1024" height="461" class="alignnone size-large wp-image-232" srcset="{{ site.baseurl }}/wp-content/uploads/2017/07/debrief-20-july-1024x461.jpg 1024w, {{ site.baseurl }}/wp-content/uploads/2017/07/debrief-20-july-300x135.jpg 300w, {{ site.baseurl }}/wp-content/uploads/2017/07/debrief-20-july-768x346.jpg 768w, {{ site.baseurl }}/wp-content/uploads/2017/07/debrief-20-july.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 This was the first day of my second week of flying. My first exercise was to carry out a solo nav exercise in prep for me potentially heading out on my qualifying cross country this week. Things could have gone a bit better.
 

@@ -4,14 +4,14 @@ title: 'Debrief &#8211; Ground School &#8211; Tuesday 2nd May'
 date: 2017-05-05T20:44:22+00:00
 author: Jordan Terry
 layout: post
-guid: http://theflyingandroid.com/?p=172
+guid: {{ site.baseurl }}/?p=172
 permalink: /2017/05/05/debrief-ground-school-tuesday-2nd-may/
 image: /wp-content/uploads/2017/05/featured-debrief-navigation.jpg
 categories:
   - Debriefs
   - PPL
 ---
-<img loading="lazy" class="alignnone size-large wp-image-174" src="http://theflyingandroid.com/wp-content/uploads/2017/05/featured-debrief-navigation-1024x461.jpg" alt="" width="1024" height="461" srcset="http://theflyingandroid.com/wp-content/uploads/2017/05/featured-debrief-navigation-1024x461.jpg 1024w, http://theflyingandroid.com/wp-content/uploads/2017/05/featured-debrief-navigation-300x135.jpg 300w, http://theflyingandroid.com/wp-content/uploads/2017/05/featured-debrief-navigation-768x346.jpg 768w, http://theflyingandroid.com/wp-content/uploads/2017/05/featured-debrief-navigation.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img loading="lazy" class="alignnone size-large wp-image-174" src="{{ site.baseurl }}/wp-content/uploads/2017/05/featured-debrief-navigation-1024x461.jpg" alt="" width="1024" height="461" srcset="{{ site.baseurl }}/wp-content/uploads/2017/05/featured-debrief-navigation-1024x461.jpg 1024w, {{ site.baseurl }}/wp-content/uploads/2017/05/featured-debrief-navigation-300x135.jpg 300w, {{ site.baseurl }}/wp-content/uploads/2017/05/featured-debrief-navigation-768x346.jpg 768w, {{ site.baseurl }}/wp-content/uploads/2017/05/featured-debrief-navigation.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 Every week I attend an evening course to help me get through the studying required for my PPL ground exams. Debriefing each session should help me with reinforcement of what I have been taught.
 

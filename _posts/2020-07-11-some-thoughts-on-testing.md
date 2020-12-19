@@ -4,12 +4,12 @@ title: Some thoughts on testing
 date: 2020-07-11T08:31:18+00:00
 author: jordan_terry
 layout: post
-guid: http://jordanterry.co.uk/?p=156
+guid: {{ site.baseurl }}/?p=156
 permalink: /some-thoughts-on-testing
 categories:
   - Software Engineering
 ---
-<figure class="wp-block-image size-large"><img src="http://jordanterry.co.uk/wp-content/uploads/2020/07/oguzhan-akdogan-qYMkkREOHa4-unsplash-1024x768.jpg" alt="" class="wp-image-166" srcset="http://jordanterry.co.uk/wp-content/uploads/2020/07/oguzhan-akdogan-qYMkkREOHa4-unsplash-1024x768.jpg 1024w, http://jordanterry.co.uk/wp-content/uploads/2020/07/oguzhan-akdogan-qYMkkREOHa4-unsplash-300x225.jpg 300w, http://jordanterry.co.uk/wp-content/uploads/2020/07/oguzhan-akdogan-qYMkkREOHa4-unsplash-768x576.jpg 768w, http://jordanterry.co.uk/wp-content/uploads/2020/07/oguzhan-akdogan-qYMkkREOHa4-unsplash-1536x1152.jpg 1536w, http://jordanterry.co.uk/wp-content/uploads/2020/07/oguzhan-akdogan-qYMkkREOHa4-unsplash.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Photo by [Oğuzhan Akdoğan](https://unsplash.com/@jeffgry?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/t/technology?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption></figure> 
+<figure class="wp-block-image size-large"><img src="{{ site.baseurl }}/wp-content/uploads/2020/07/oguzhan-akdogan-qYMkkREOHa4-unsplash-1024x768.jpg" alt="" class="wp-image-166" srcset="{{ site.baseurl }}/wp-content/uploads/2020/07/oguzhan-akdogan-qYMkkREOHa4-unsplash-1024x768.jpg 1024w, {{ site.baseurl }}/wp-content/uploads/2020/07/oguzhan-akdogan-qYMkkREOHa4-unsplash-300x225.jpg 300w, {{ site.baseurl }}/wp-content/uploads/2020/07/oguzhan-akdogan-qYMkkREOHa4-unsplash-768x576.jpg 768w, {{ site.baseurl }}/wp-content/uploads/2020/07/oguzhan-akdogan-qYMkkREOHa4-unsplash-1536x1152.jpg 1536w, {{ site.baseurl }}/wp-content/uploads/2020/07/oguzhan-akdogan-qYMkkREOHa4-unsplash.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Photo by [Oğuzhan Akdoğan](https://unsplash.com/@jeffgry?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/t/technology?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</figcaption></figure> 
 
 I associate a number of things with writing test code.
 

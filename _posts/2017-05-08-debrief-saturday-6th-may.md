@@ -4,14 +4,14 @@ title: 'Debrief &#8211; Saturday 6th May'
 date: 2017-05-08T06:44:39+00:00
 author: Jordan Terry
 layout: post
-guid: http://theflyingandroid.com/?p=177
+guid: {{ site.baseurl }}/?p=177
 permalink: /2017/05/08/debrief-saturday-6th-may/
 image: /wp-content/uploads/2017/05/featured-debrief-05-may.jpg
 categories:
   - Debriefs
   - PPL
 ---
-<figure id="attachment_178" class="thumbnail wp-caption alignnone" style="width: 1034px"><img loading="lazy" class="size-large wp-image-178" src="http://theflyingandroid.com/wp-content/uploads/2017/05/featured-debrief-05-may-1024x461.jpg" alt="" width="1024" height="461" srcset="http://theflyingandroid.com/wp-content/uploads/2017/05/featured-debrief-05-may-1024x461.jpg 1024w, http://theflyingandroid.com/wp-content/uploads/2017/05/featured-debrief-05-may-300x135.jpg 300w, http://theflyingandroid.com/wp-content/uploads/2017/05/featured-debrief-05-may-768x346.jpg 768w, http://theflyingandroid.com/wp-content/uploads/2017/05/featured-debrief-05-may.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="caption wp-caption-text">Sky above Lee</figcaption></figure> 
+<figure id="attachment_178" class="thumbnail wp-caption alignnone" style="width: 1034px"><img loading="lazy" class="size-large wp-image-178" src="{{ site.baseurl }}/wp-content/uploads/2017/05/featured-debrief-05-may-1024x461.jpg" alt="" width="1024" height="461" srcset="{{ site.baseurl }}/wp-content/uploads/2017/05/featured-debrief-05-may-1024x461.jpg 1024w, {{ site.baseurl }}/wp-content/uploads/2017/05/featured-debrief-05-may-300x135.jpg 300w, {{ site.baseurl }}/wp-content/uploads/2017/05/featured-debrief-05-may-768x346.jpg 768w, {{ site.baseurl }}/wp-content/uploads/2017/05/featured-debrief-05-may.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="caption wp-caption-text">Sky above Lee</figcaption></figure> 
 
 On the morning of the 6th I woke up with nothing planned for the day other than reading and watching a film. My phone starts ringing and it is my instructor &#8211; interesting!
 

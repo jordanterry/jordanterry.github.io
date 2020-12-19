@@ -4,7 +4,7 @@ title: Why are we bad at Software Engineering by Jake Voytko
 date: 2020-06-29T06:16:02+00:00
 author: jordan_terry
 layout: post
-guid: http://jordanterry.co.uk/?p=148
+guid: {{ site.baseurl }}/?p=148
 permalink: /why-are-we-bad-at-software-engineering-by-jake-voytko
 categories:
   - Lamenting the state of software
